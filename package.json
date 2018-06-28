@@ -12,10 +12,15 @@
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.18",
-    "bootstrap": "^4.0.0",
-    "popper.js": "^1.12",
+    "bootstrap": "^4.1.1",
     "cross-env": "^5.1",
     "laravel-mix": "^2.0",
+    "popper.js": "^1.12",
     "vue": "^2.5.7"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "sweetalert": "^2.1.0"
   }
 }
