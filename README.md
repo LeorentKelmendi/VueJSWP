@@ -1,4 +1,4 @@
-# VueJSWP
+# VuePress
 Vuejs based theme for WP 
 ![image](http://res.cloudinary.com/evanagee/image/upload/v1507763167/VueWP/vue-wordpress-sitting-in-a-tree.jpg)
 
