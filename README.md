@@ -3,8 +3,7 @@ Vuejs based theme for WP
 ![image](http://res.cloudinary.com/evanagee/image/upload/v1507763167/VueWP/vue-wordpress-sitting-in-a-tree.jpg)
 
 # vuejs-wordpress-theme-starter
-A true WordPress theme with the guts ripped out and replaced with Vue. Based on the [BlankSlate](https://github.com/tidythemes/blankslate) WP starter theme.
-
+A true WordPress theme with the guts ripped out and replaced with Vue. 
 **Who's this for?** Devs that wants to know how to integrate VueJS with WP.
 
 ## Features
