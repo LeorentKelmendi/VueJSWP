@@ -1,0 +1,9 @@
+{
+    "name":"vuepress/theme",
+    "description":"This is a custom theme",
+    "autoload":{
+        "psr-4":{
+            "VuePress\\":"src/"
+        }
+    }
+}
